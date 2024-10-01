@@ -1,0 +1,39 @@
+.display-jobs-card{
+
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(87, 81, 81, 0.564);
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+.logo-rating-cont{
+    color: white;
+    display: flex;
+    flex-direction: row;
+  
+
+}
+.title-rating-cont{
+    color: white;
+    margin-left: 15px;
+}
+.location-empType-ppa-cont{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.location-empType-cont{
+    color: white;
+}
+.description{
+    color: white;
+}
+h5{
+    color: white;
+}
+.hrline{
+    color: white;
+}

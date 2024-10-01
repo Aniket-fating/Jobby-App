@@ -1,0 +1,22 @@
+.all-jobs-filter-cont{
+    width: 100%;
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+.filter-cont{
+    width: 30%;
+    height: 100%;
+}
+
+.all-jobs-cont{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: rgb(111, 72, 175); */
+
+}
